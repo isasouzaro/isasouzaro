@@ -1,5 +1,5 @@
 # Olá! Eu sou Isabela ✨
-👩🏻‍💻 Licencianda de Computação na UFPR
+👩🏻‍💻 Licencianda em Computação na UFPR
 
 ### Conecte-se comigo:
   <a href="https://instagram.com/isasouzaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
